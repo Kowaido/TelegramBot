@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot.cs", "TelegramBot.cs\TelegramBot.cs.csproj", "{0D5FD71A-5B25-4703-9573-6942B20A56B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5109897C-FBCB-4EFA-9880-90CAD38F278C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{4109D036-B4F8-4896-871B-616A88A4B436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D5FD71A-5B25-4703-9573-6942B20A56B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5FD71A-5B25-4703-9573-6942B20A56B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5FD71A-5B25-4703-9573-6942B20A56B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5FD71A-5B25-4703-9573-6942B20A56B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5109897C-FBCB-4EFA-9880-90CAD38F278C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5109897C-FBCB-4EFA-9880-90CAD38F278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5109897C-FBCB-4EFA-9880-90CAD38F278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5109897C-FBCB-4EFA-9880-90CAD38F278C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4109D036-B4F8-4896-871B-616A88A4B436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4109D036-B4F8-4896-871B-616A88A4B436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4109D036-B4F8-4896-871B-616A88A4B436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4109D036-B4F8-4896-871B-616A88A4B436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
